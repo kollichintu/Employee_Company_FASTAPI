@@ -7,9 +7,13 @@ Created API CRUD methods
 Requirements for API are listed below
 
 sqlalchemy
+
 pydantic
+
 uvicorn
+
 FASTAPI
 
 command to trigger swagger
+
 uvicorn main:app --reload
