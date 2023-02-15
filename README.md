@@ -8,5 +8,8 @@ Requirements for API are listed below
 
 sqlalchemy
 pydantic
-uvicorn ---to maintain FASTAPI server
+uvicorn
 FASTAPI
+
+command to trigger swagger
+uvicorn main:app --reload
